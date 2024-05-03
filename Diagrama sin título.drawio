@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T09:49:20.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="6SapxvDEHroymfKmkSTA" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T09:53:35.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="9AyiglOVrOUPRJG4vzMl" version="24.3.1" type="github">
   <diagram name="Página-1" id="HN21Cz5HRuJ8S5SI0gQg">
-    <mxGraphModel dx="2005" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3137" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-816" value="Detalle_Venta" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="-300" width="180" height="210" as="geometry" />
+          <mxGeometry x="1160" y="-300" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-817" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WbnWTpt7AH2d8qFCZB_h-816">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -520,7 +520,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-829" value="&lt;div&gt;Tipo_Calzado&lt;/div&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="-600" width="210" height="120" as="geometry" />
+          <mxGeometry x="1155" y="-600" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-830" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WbnWTpt7AH2d8qFCZB_h-829">
           <mxGeometry y="30" width="210" height="30" as="geometry" />
@@ -591,7 +591,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-932" value="Talla" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" width="140" height="90" as="geometry" />
+          <mxGeometry x="990" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-933" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WbnWTpt7AH2d8qFCZB_h-932">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -1267,7 +1267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-1096" value="Cliente" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="414" width="239" height="330" as="geometry" />
+          <mxGeometry x="921" y="414" width="239" height="330" as="geometry" />
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-1097" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WbnWTpt7AH2d8qFCZB_h-1096">
           <mxGeometry y="30" width="239" height="30" as="geometry" />
@@ -1892,7 +1892,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-1249" value="genero" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="925" y="1060" width="230" height="90" as="geometry" />
+          <mxGeometry x="910" y="1060" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-1250" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WbnWTpt7AH2d8qFCZB_h-1249">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
@@ -2034,7 +2034,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-1303" value="&lt;b id=&quot;docs-internal-guid-ea272c4c-7fff-82a1-0953-384d220dbc5c&quot; style=&quot;font-weight:normal;&quot;&gt;&lt;span style=&quot;font-size:12pt;font-family:&#39;Times New Roman&#39;,serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Tipo_documento&lt;/span&gt;&lt;/b&gt;" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="919.5" y="800" width="260" height="80" as="geometry" />
+          <mxGeometry x="895" y="800" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WbnWTpt7AH2d8qFCZB_h-1304" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WbnWTpt7AH2d8qFCZB_h-1303">
           <mxGeometry y="30" width="260" height="20" as="geometry" />
